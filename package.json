@@ -1,14 +1,14 @@
 {
-  "name": "erschat",
-  "version": "1.0.0",
-  "description": "",
+  "name": "samchat-v2",
+  "version": "2.0.0",
+  "description": "A simple chat system has been developed with this application.",
   "main": "./src/ersChat.js",
   "scripts": {
     "start": "node ./src/samchat.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["NodeJS", "Socketio", "JWT", "chat-app"],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.0",
