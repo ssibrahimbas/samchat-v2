@@ -1,0 +1,26 @@
+{
+  "name": "erschat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/ersChat.js",
+  "scripts": {
+    "start": "node ./src/samchat.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.10",
+    "socket.io": "^4.4.1"
+  },
+  "devDependencies": {
+    "module-alias": "^2.2.2"
+  },
+  "_moduleAliases": {
+    "~": "./src",
+    "@": "./src"
+  }
+}
