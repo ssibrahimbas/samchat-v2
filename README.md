@@ -1,5 +1,5 @@
 <p align="center"><br><img src="https://avatars.githubusercontent.com/u/76786120?v=4" width="128" height="128" style="border-radius: 50px;" /></p>
-<h3 align="center">Ssibrahimbas E-Trade (with Go)</h3>
+<h3 align="center">Ssibrahimbas SamChat v2</h3>
 <p align="center">
   A simple chat system has been developed with this application. This app is developed with NodeJS and Socket.io
 </p>
