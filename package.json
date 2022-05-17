@@ -2,7 +2,7 @@
   "name": "samchat-v2",
   "version": "2.0.0",
   "description": "A simple chat system has been developed with this application.",
-  "main": "./src/ersChat.js",
+  "main": "./src/samchat.js",
   "scripts": {
     "start": "node ./src/samchat.js"
   },
